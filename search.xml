@@ -69,9 +69,9 @@
         <category>Activities</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>Symposium</tag>
         <tag>YiChang</tag>
-        <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>Scheduled</tag>
@@ -108,8 +108,8 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>Defining</tag>
@@ -245,8 +245,8 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>EnShi</tag>
@@ -389,8 +389,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PHG</tag>
         <tag>Patent</tag>
+        <tag>PHG</tag>
       </tags>
   </entry>
   <entry>
@@ -417,8 +417,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>NPACH</tag>
         <tag>Patent</tag>
+        <tag>NPACH</tag>
       </tags>
   </entry>
   <entry>
@@ -568,6 +568,47 @@
       </tags>
   </entry>
   <entry>
+    <title>货币价值锚定兑换机制 | Exchange Mechanism by Anchored Currency Value</title>
+    <url>/2021/11/16/Exchange_Mechanism_By_Anchored_Currency_Value/</url>
+    <content><![CDATA[<p><strong>专利名称 / PATENT NAME:</strong> 货币价值锚定兑换机制 / EXCHANGE MECHANISM BY ANCHORED CURRENCY VALUE</p>
+<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/R-C-QR-FYI.png" style="zoom:50%;" />
+
+<h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p>标准货币的基础价值与普通人日常所饮用纯净水的水量锚定，如果有人连口水都喝不上，你就能知道世界哪里发生了什么不合理的事情。</p>
+<p>货币质量和总量锚定可肉眼观测的海水水质和海平面高度，用户得以自主判断和决定单枚货币的品质及其价值。</p>
+<blockquote>
+<p>The basic value of standard currency is anchored to the amount of purified water that ordinary people drink every day. If someone can’t even drink a mouthful of water, you can know what unreasonable things have happened and where the point is in the world.</p>
+<p>The quality and total amount of currency are anchored to the visually observable seawater quality and sea level height, so that you can independently judge and determine the quality and value of a single coin.</p>
+</blockquote>
+<span id="more"></span>
+
+<p><img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/QR-Money-FYI.jpg"></p>
+<ul>
+<li>根据颜色编码标记和区分货币价值的维度，比如人文性、环保度、和平度、慈善度、创新度…</li>
+</ul>
+<blockquote>
+<ul>
+<li>Mark and distinguish the dimensions of monetary value according to color coding, such as humanity, environmental protection, peace, charity and innovation…</li>
+</ul>
+</blockquote>
+<ul>
+<li>纸币序列号及其条码，和主权数字货币ID一一对应；不仅仅是防伪，杜绝了随意超发货币的可能。</li>
+</ul>
+<blockquote>
+<ul>
+<li>The serial number of the banknote and its barcode correspond to the ID of the sovereign digital currency one-to-one correspondence; It is not only for anti-counterfeiting, but also eliminates the possibility of over issuing money unrestrained.</li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Technology</category>
+      </categories>
+      <tags>
+        <tag>China</tag>
+        <tag>Patent</tag>
+        <tag>BPCI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>宜万铁路 | YiChang-WanZhou Railway</title>
     <url>/2019/11/11/Yichang-Wanzhou_Railway/</url>
     <content><![CDATA[<h1 id="253座桥梁和159条隧道-253-Bridges-and-159-Tunnels"><a href="#253座桥梁和159条隧道-253-Bridges-and-159-Tunnels" class="headerlink" title="253座桥梁和159条隧道 | 253 Bridges and 159 Tunnels"></a>253座桥梁和159条隧道 | 253 Bridges and 159 Tunnels</h1><p><a href="https://baike.baidu.com/item/%E5%AE%9C%E4%B8%87%E9%93%81%E8%B7%AF/2508318">中国宜万铁路</a>工程最终于2010年完工，</p>
@@ -630,8 +671,8 @@
         <category>Constructions</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>WanZhou</tag>
         <tag>Railway</tag>
       </tags>
