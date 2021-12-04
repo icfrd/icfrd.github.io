@@ -69,9 +69,9 @@
         <category>Activities</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>Symposium</tag>
         <tag>YiChang</tag>
-        <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>Scheduled</tag>
@@ -108,8 +108,8 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>Defining</tag>
@@ -245,8 +245,8 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>EnShi</tag>
@@ -389,8 +389,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PHG</tag>
         <tag>Patent</tag>
+        <tag>PHG</tag>
       </tags>
   </entry>
   <entry>
@@ -417,8 +417,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>NPACH</tag>
         <tag>Patent</tag>
+        <tag>NPACH</tag>
       </tags>
   </entry>
   <entry>
@@ -532,11 +532,23 @@
     <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Barrier_Free_Elevator_System_with_Fire_Access.jpg" style="zoom:40%;" />
 
 <p><strong>专利名称 / PATENT NAME:</strong> 带消防通道的无障碍电梯系统 / BARRIER FREE ELEVATOR SYSTEM WITH FIRE ACCESS</p>
-<h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p>电梯直接半层平台，节约钢材和施工量，不影响楼体平衡，电梯更稳固！</p>
-<p>按需安装楼层间升降平台，成本更优化。</p>
+<h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><ul>
+<li><p>电梯直接半层平台，节约钢材和施工量，电梯更稳固。</p>
+</li>
+<li><p>不用连廊，不加建入户平台，不打破楼体建筑原有平衡。</p>
+</li>
+<li><p>按需安装楼层间升降平台，成本更优化。</p>
+</li>
+</ul>
 <blockquote>
-<p>The elevator is directly fixed with the half floor platform, which saves steel and construction, does not affect the building balance, and the elevator is more stable!</p>
-<p>The lifting platform between floors is installed on demand, and the cost is more optimized.</p>
+<ul>
+<li><p>The elevator is directly fixed with the half floor platform, which saves steel and construction, and the elevator is more stable。</p>
+</li>
+<li><p>No need corridor, no entrance platform, and the original balance of the building is not broken.</p>
+</li>
+<li><p>The lifting platform between floors is installed on demand, and the cost is more optimized.</p>
+</li>
+</ul>
 </blockquote>
 <span id="more"></span>
 
@@ -618,8 +630,8 @@
         <category>Constructions</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>WanZhou</tag>
         <tag>Railway</tag>
       </tags>
