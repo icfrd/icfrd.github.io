@@ -553,7 +553,7 @@
 <p><strong>专利名称 / PATENT NAME:</strong> 基于经纬度的国际网 / LONGITUDE &amp; LATITUDE BASED INTERNAT</p>
 <h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p>根据经纬度作为网络寻址的国际互联网系统。珠穆朗玛峰第一个网址举栗：<code>http://86.9,27.9,8848,1</code></p>
 <blockquote>
-<p>The Internat system that uses latitude &amp; longitude as network addressing. The first URL example of Mount Qomolangma will be: <code>http://86.9,27.9,8848,1</code></p>
+<p>The Internat system that uses latitude &amp; longitude as network addressing. The first URL example of Mount Qomolangma should be: <code>http://86.9,27.9,8848,1</code></p>
 </blockquote>
 <span id="more"></span>
 
@@ -582,7 +582,7 @@
 <p>Can be used for real scene modeling, that what you get is what you use.</p>
 </blockquote>
 <ul>
-<li>可与IP网络共存。</li>
+<li>可与TCP/IP网络共存。</li>
 </ul>
 <blockquote>
 <p>Can coexist with TCP/IP network.</p>
