@@ -156,9 +156,9 @@
       </categories>
       <tags>
         <tag>Defining</tag>
-        <tag>RCS</tag>
         <tag>Sinai</tag>
         <tag>Egypt</tag>
+        <tag>RCS</tag>
       </tags>
   </entry>
   <entry>
@@ -202,10 +202,10 @@
         <tag>NPACH</tag>
         <tag>Defining</tag>
         <tag>India</tag>
+        <tag>Bangladesh</tag>
         <tag>YaDong</tag>
         <tag>Bhutan</tag>
         <tag>Kurigram</tag>
-        <tag>Bangladesh</tag>
       </tags>
   </entry>
   <entry>
@@ -432,13 +432,27 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>Defining</tag>
-        <tag>Vancouver</tag>
-        <tag>Canada</tag>
-        <tag>Norfolk</tag>
-        <tag>USA</tag>
+        <tag>India</tag>
+        <tag>YunNan</tag>
+        <tag>Myanmar</tag>
+        <tag>Thailand</tag>
+        <tag>Bangladesh</tag>
+        <tag>Pakistan</tag>
+        <tag>Iran</tag>
+        <tag>UAE</tag>
+        <tag>Oman</tag>
+        <tag>Yemen</tag>
+        <tag>Djibouti</tag>
+        <tag>Saudi Arabia</tag>
+        <tag>Sinai</tag>
+        <tag>Egypt</tag>
+        <tag>Ethiopia</tag>
+        <tag>Eritrea</tag>
+        <tag>Sri Lanka</tag>
       </tags>
   </entry>
   <entry>
