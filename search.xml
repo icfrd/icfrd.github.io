@@ -121,6 +121,8 @@
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
       </tags>
   </entry>
@@ -203,6 +205,8 @@
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>India</tag>
         <tag>YunNan</tag>
@@ -254,6 +258,8 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>Sinai</tag>
         <tag>Egypt</tag>
@@ -299,6 +305,8 @@
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
@@ -358,6 +366,8 @@
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>EnShi</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
       </tags>
   </entry>
@@ -409,6 +419,8 @@
       <tags>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>Melamchi</tag>
         <tag>Nepal</tag>
@@ -448,6 +460,8 @@
       <tags>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>Melamchi</tag>
         <tag>Nepal</tag>
@@ -492,6 +506,8 @@
       <tags>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>Vancouver</tag>
         <tag>Canada</tag>
@@ -757,7 +773,7 @@
       <tags>
         <tag>China</tag>
         <tag>Patent</tag>
-        <tag>NSBLL</tag>
+        <tag>LLBI</tag>
       </tags>
   </entry>
   <entry>
@@ -794,7 +810,7 @@
       <tags>
         <tag>China</tag>
         <tag>Patent</tag>
-        <tag>BPCI</tag>
+        <tag>EMACV</tag>
       </tags>
   </entry>
   <entry>
