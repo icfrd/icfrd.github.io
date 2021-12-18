@@ -73,11 +73,11 @@
         <category>Activities</category>
       </categories>
       <tags>
-        <tag>Symposium</tag>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
+        <tag>YiChang</tag>
+        <tag>Symposium</tag>
         <tag>Scheduled</tag>
       </tags>
   </entry>
@@ -119,13 +119,13 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>YiChang</tag>
       </tags>
   </entry>
   <entry>
@@ -286,7 +286,6 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
@@ -294,6 +293,43 @@
         <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>EnShi</tag>
+        <tag>YiChang</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>鲍河-梅迪辛哈特 输水发电管及超级高铁 | Ghost - Medicine Hat PHG &amp; NPACH</title>
+    <url>/2021/11/28/Ghost-Medicine_PHG&amp;NPACH/</url>
+    <content><![CDATA[<p>中国、印度、孟加拉，输水发电管及负压气垫超级高铁项目</p>
+<blockquote>
+<p>of Canada, Pipeline Hydroelectric Generation &amp; Negative Pressure Air Cushion Hyperloop Project</p>
+</blockquote>
+<h2 id="项目概述-PROJECT-OVERVIEW"><a href="#项目概述-PROJECT-OVERVIEW" class="headerlink" title="项目概述 / PROJECT OVERVIEW"></a>项目概述 / PROJECT OVERVIEW</h2><p>本项目采用<a href="/2021/11/21/Pipeline_Hydroelectric_Generation_System/">输送管发电系统</a>、<a href="/2021/11/21/Negative_Pressure_Air_Cushion_Hyperloop_System/">负压气垫超级高铁系统</a>和<a href="/2021/11/21/Wind_Tunnel_Based_Power_Accelerated_System/">基于风洞的助力系统</a>等专利技术，并且兼容<a href="/2021/11/17/Longitude&Latitude_Based_Internat/">经纬国际网路由通信协议</a>、符合<a href="/2021/11/16/Exchange_Mechanism_By_Anchored_Currency_Value/">货币价值锚定兑换机制</a>。</p>
+<blockquote>
+<p>This project utilizes the patented technologies of <a href="/2021/11/21/Pipeline_Hydroelectric_Generation_System/">Pipeline Hydroelectric Generation System</a>, <a href="/2021/11/21/Negative_Pressure_Air_Cushion_Hyperloop_System/">Negative Pressure Air Cushion Hyperloop System</a>, <a href="/2021/11/21/Wind_Tunnel_Based_Power_Accelerated_System/">Wind Tunnel Based Power Accelerated System</a> and <a href="/2021/11/17/Bridge&Port_for_Container_Integrated_System/">Bridge &amp; Port for Container Integrated System</a> etc, and compatible with the routing and communication protocol of <a href="/2021/11/17/Longitude&Latitude_Based_Internat/">Longitude &amp; Latitude Based Internat</a>, conforms to the <a href="/2021/11/16/Exchange_Mechanism_By_Anchored_Currency_Value/">Exchange Mechanism by Anchored Currency Value</a>.</p>
+</blockquote>
+<p>输水发电管线起点拟于加拿大艾伯塔省卡尔加里鲍河水库上游，终点在梅迪辛哈特，长约345公里。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Xnip2021-12-18_11-39-53.jpg"></p>
+<blockquote>
+<p>The hydroelectric generation pipeline will start from the upper reaches of Ghost Reservoir in Calgary of Alberta, Canada, and ends at Medicine Hat, with length of about 345km.</p>
+</blockquote>
+<span id="more"></span>
+
+<p>取水口拟位于鲍河水库上，海拔高度约1198米，管线沿现有公路，取水口到公路约有3公里。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Xnip2021-12-18_11-41-41.jpg"></p>
+<blockquote>
+<p>The water intake is drafted to be located on the Baohe reservoir, with altitude of about 1198 meters. The pipeline is along the existing highway, and the distance from the water intake to the highway is about 3km.</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Projects</category>
+      </categories>
+      <tags>
+        <tag>PHG</tag>
+        <tag>NPACH</tag>
+        <tag>LLBI</tag>
+        <tag>EMACV</tag>
+        <tag>Defining</tag>
+        <tag>Canada</tag>
       </tags>
   </entry>
   <entry>
@@ -509,7 +545,6 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Switzerland</tag>
         <tag>Germany</tag>
         <tag>Austria</tag>
@@ -520,6 +555,7 @@
         <tag>Bulgaria</tag>
         <tag>Romania</tag>
         <tag>Moldova</tag>
+        <tag>Ukraine</tag>
         <tag>Black Sea</tag>
       </tags>
   </entry>
@@ -643,9 +679,9 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Ukraine</tag>
         <tag>Russia</tag>
         <tag>Belarus</tag>
-        <tag>Ukraine</tag>
       </tags>
   </entry>
   <entry>
@@ -674,8 +710,8 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Russia</tag>
         <tag>Ukraine</tag>
+        <tag>Russia</tag>
         <tag>Georgia</tag>
         <tag>Azerbaijan</tag>
         <tag>Iran</tag>
@@ -944,9 +980,9 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>India</tag>
         <tag>PHG</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -994,10 +1030,10 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PHG</tag>
-        <tag>NPACH</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PHG</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1034,12 +1070,12 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>China</tag>
-        <tag>PHG</tag>
-        <tag>NPACH</tag>
         <tag>MoTuo</tag>
+        <tag>China</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PHG</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1139,9 +1175,9 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Canada</tag>
         <tag>Mexico</tag>
         <tag>Vancouver</tag>
-        <tag>Canada</tag>
         <tag>Norfolk</tag>
         <tag>USA</tag>
         <tag>Laguna Salada</tag>
@@ -1226,10 +1262,10 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PHG</tag>
-        <tag>NPACH</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PHG</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1459,48 +1495,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人性化无延迟涡轮增压发动机 | Humanized Turbocharged Engine Without Delay</title>
-    <url>/2021/11/17/Humanized_Turbocharged_Engine_Without_Delay/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Humanized_Turbocharged_Engine_Without_Delay-New2.jpg" style="zoom:60%;" />
-
-<p><strong>专利名称 / PATENT NAME:</strong> 人性化无延迟涡轮增压发动机 / HUMANIZED TURBOCHARGED ENGINE WITHOUT DELAY</p>
-<h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p>对曲轴箱的压力集中收集，并保持压力在设定值；不使用外置设备，彻底解决涡轮增压发动机的延迟缺陷。</p>
-<blockquote>
-<p>Collect the pressure of crankcase intensively and keep the pressure at the set value. No external equipment is used to completely solve the delay defect of turbocharged engine.</p>
-</blockquote>
-<ul>
-<li>抬起油门时，切断发动机给涡轮增压的供气，避免陷入涡轮增压2秒延迟的死亡陷阱！</li>
-</ul>
-<blockquote>
-<p>While lifting the throttle, cut off the air supply from the engine to the turbocharger to avoid falling into the death trap of 2-second delay by turbocharger!</p>
-</blockquote>
-<ul>
-<li>踩下油门，在发动机转速不足以推动涡轮介入时，释放集中收集的压力，推动涡轮转动！</li>
-</ul>
-<blockquote>
-<p>While the accelerator is pressed, if the engine speed is not enough to push the turbine to work, release the collected pressure from crankcase and push the turbine to rotate!</p>
-</blockquote>
-<span id="more"></span>
-
-<p>传统涡轮增压发动机带来的恶性循环和死亡陷阱：抬起油门时，发动机废气仍推动涡轮增压工作，并持续2秒，你会感觉到汽车还在加速！错误的潜意识心理暗示会让你以为自己刚才松开的是刹车，想踩刹车的条件反射会促使你又错误地踩向了油门..</p>
-<p>（下图1，为“无延迟涡轮增压发动机”踩下油门时的工作原理）</p>
-<blockquote>
-<p>The vicious circle and death trap brought by the traditional turbocharged engine: when you lift the accelerator, the engine exhaust still drives the turbocharged work for 2 seconds, and you will feel that the car is still accelerating! The wrong subconscious psychological hint will make you think you just released the brake, then the conditioned reflex of wanting to step on the brake will make you step on the accelerator again by mistake..</p>
-<p>(The following figure 1, shows the working principle of HTEWD while pressing the accelerator)</p>
-</blockquote>
-<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Humanized_Turbocharged_Engine_Without_Delay-New1.jpg" style="zoom:60%;" />
-
-]]></content>
-      <categories>
-        <category>Technology</category>
-      </categories>
-      <tags>
-        <tag>China</tag>
-        <tag>Patent</tag>
-        <tag>HTEWD</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>基于经纬度的国际网 | Longitude &amp; Latitude Based Internat</title>
     <url>/2021/11/17/Longitude&amp;Latitude_Based_Internat/</url>
     <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Longitude&Latitude_Internat.png" style="zoom:35%;" />
@@ -1560,8 +1554,50 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>Patent</tag>
         <tag>LLBI</tag>
+        <tag>Patent</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人性化无延迟涡轮增压发动机 | Humanized Turbocharged Engine Without Delay</title>
+    <url>/2021/11/17/Humanized_Turbocharged_Engine_Without_Delay/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Humanized_Turbocharged_Engine_Without_Delay-New2.jpg" style="zoom:60%;" />
+
+<p><strong>专利名称 / PATENT NAME:</strong> 人性化无延迟涡轮增压发动机 / HUMANIZED TURBOCHARGED ENGINE WITHOUT DELAY</p>
+<h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p>对曲轴箱的压力集中收集，并保持压力在设定值；不使用外置设备，彻底解决涡轮增压发动机的延迟缺陷。</p>
+<blockquote>
+<p>Collect the pressure of crankcase intensively and keep the pressure at the set value. No external equipment is used to completely solve the delay defect of turbocharged engine.</p>
+</blockquote>
+<ul>
+<li>抬起油门时，切断发动机给涡轮增压的供气，避免陷入涡轮增压2秒延迟的死亡陷阱！</li>
+</ul>
+<blockquote>
+<p>While lifting the throttle, cut off the air supply from the engine to the turbocharger to avoid falling into the death trap of 2-second delay by turbocharger!</p>
+</blockquote>
+<ul>
+<li>踩下油门，在发动机转速不足以推动涡轮介入时，释放集中收集的压力，推动涡轮转动！</li>
+</ul>
+<blockquote>
+<p>While the accelerator is pressed, if the engine speed is not enough to push the turbine to work, release the collected pressure from crankcase and push the turbine to rotate!</p>
+</blockquote>
+<span id="more"></span>
+
+<p>传统涡轮增压发动机带来的恶性循环和死亡陷阱：抬起油门时，发动机废气仍推动涡轮增压工作，并持续2秒，你会感觉到汽车还在加速！错误的潜意识心理暗示会让你以为自己刚才松开的是刹车，想踩刹车的条件反射会促使你又错误地踩向了油门..</p>
+<p>（下图1，为“无延迟涡轮增压发动机”踩下油门时的工作原理）</p>
+<blockquote>
+<p>The vicious circle and death trap brought by the traditional turbocharged engine: when you lift the accelerator, the engine exhaust still drives the turbocharged work for 2 seconds, and you will feel that the car is still accelerating! The wrong subconscious psychological hint will make you think you just released the brake, then the conditioned reflex of wanting to step on the brake will make you step on the accelerator again by mistake..</p>
+<p>(The following figure 1, shows the working principle of HTEWD while pressing the accelerator)</p>
+</blockquote>
+<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/Humanized_Turbocharged_Engine_Without_Delay-New1.jpg" style="zoom:60%;" />
+
+]]></content>
+      <categories>
+        <category>Technology</category>
+      </categories>
+      <tags>
+        <tag>China</tag>
+        <tag>Patent</tag>
+        <tag>HTEWD</tag>
       </tags>
   </entry>
   <entry>
@@ -1603,8 +1639,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>Patent</tag>
         <tag>EMACV</tag>
+        <tag>Patent</tag>
       </tags>
   </entry>
   <entry>
@@ -1711,8 +1747,8 @@
         <category>Constructions</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>WanZhou</tag>
         <tag>Railway</tag>
       </tags>
