@@ -73,11 +73,11 @@
         <category>Activities</category>
       </categories>
       <tags>
-        <tag>Symposium</tag>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
+        <tag>Symposium</tag>
+        <tag>YiChang</tag>
         <tag>Scheduled</tag>
       </tags>
   </entry>
@@ -86,7 +86,7 @@
     <url>/2021/12/27/UCSCSP/</url>
     <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/2021116062775.jpg" alt=" " style="zoom:25%;" />
 
-<p><strong>专利名称 / PATENT NAME:</strong> 带大小写和复数属性的中文格式 / UNIFIED CHINESE STANDARD WITH CASE SENSITIVE AND PLURAL ATTRIBUTES</p>
+<p><strong>标准名称 / STANDARD NAME:</strong> 带大小写和复数属性的中文格式 / UNIFIED CHINESE STANDARD WITH CASE SENSITIVE AND PLURAL ATTRIBUTES</p>
 <h2 id="简介-BRIEF"><a href="#简介-BRIEF" class="headerlink" title="简介 / BRIEF"></a>简介 / BRIEF</h2><p><strong>简体中文作为小写、繁体中文作为大写，</strong>使得中文更统一、中文字更像一幅立体画。可选的：</p>
 <blockquote>
 <p><strong>Simplified Chinese as lowercase and TRADITIONAL CHINESE AS UPPERCASE</strong>,<br>make Chinese more unified and Chinese characters more like a three-dimensional picture. </p>
@@ -105,12 +105,12 @@
 <p>举个栗子：地上一只小鸟，树上一只单身公鳥，三对大、鳥㇀,一共几只鸟㇀</p>
 ]]></content>
       <categories>
-        <category>Technology</category>
+        <category>Standard</category>
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>Patent</tag>
         <tag>UCSCSP</tag>
+        <tag>Standard</tag>
       </tags>
   </entry>
   <entry>
@@ -151,13 +151,13 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>YiChang</tag>
       </tags>
   </entry>
   <entry>
@@ -302,13 +302,13 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>YiChang</tag>
         <tag>XingShan</tag>
       </tags>
   </entry>
@@ -360,13 +360,13 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>YiChang</tag>
         <tag>EnShi</tag>
       </tags>
   </entry>
@@ -1162,9 +1162,9 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>India</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1212,10 +1212,10 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PPGS</tag>
-        <tag>NPACH</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PPGS</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1253,11 +1253,11 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PPGS</tag>
-        <tag>NPACH</tag>
         <tag>MoTuo</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PPGS</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1393,10 +1393,10 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PPGS</tag>
-        <tag>NPACH</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
+        <tag>PPGS</tag>
+        <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1592,8 +1592,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>PPGS</tag>
         <tag>Patent</tag>
+        <tag>PPGS</tag>
       </tags>
   </entry>
   <entry>
@@ -1628,8 +1628,8 @@
       </categories>
       <tags>
         <tag>China</tag>
-        <tag>NPACH</tag>
         <tag>Patent</tag>
+        <tag>NPACH</tag>
       </tags>
   </entry>
   <entry>
@@ -1958,8 +1958,8 @@
         <category>Constructions</category>
       </categories>
       <tags>
-        <tag>YiChang</tag>
         <tag>China</tag>
+        <tag>YiChang</tag>
         <tag>WanZhou</tag>
         <tag>Railway</tag>
       </tags>
