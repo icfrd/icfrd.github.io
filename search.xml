@@ -262,8 +262,8 @@
         <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>RCS</tag>
-        <tag>Sinai</tag>
         <tag>Egypt</tag>
+        <tag>Sinai</tag>
       </tags>
   </entry>
   <entry>
@@ -555,6 +555,7 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Ukraine</tag>
         <tag>Switzerland</tag>
         <tag>Germany</tag>
         <tag>Austria</tag>
@@ -565,7 +566,6 @@
         <tag>Bulgaria</tag>
         <tag>Romania</tag>
         <tag>Moldova</tag>
-        <tag>Ukraine</tag>
         <tag>Black Sea</tag>
       </tags>
   </entry>
@@ -630,7 +630,6 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Egypt</tag>
         <tag>Italy</tag>
         <tag>Albania</tag>
         <tag>Greece</tag>
@@ -638,6 +637,7 @@
         <tag>Syria</tag>
         <tag>Palestine</tag>
         <tag>Israel</tag>
+        <tag>Egypt</tag>
       </tags>
   </entry>
   <entry>
@@ -760,9 +760,9 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Russia</tag>
         <tag>Belarus</tag>
+        <tag>Ukraine</tag>
       </tags>
   </entry>
   <entry>
@@ -808,8 +808,8 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Russia</tag>
+        <tag>Ukraine</tag>
         <tag>Georgia</tag>
         <tag>Azerbaijan</tag>
         <tag>Iran</tag>
@@ -1469,14 +1469,14 @@
         <tag>YunNan</tag>
         <tag>Myanmar</tag>
         <tag>Thailand</tag>
+        <tag>Egypt</tag>
+        <tag>Sinai</tag>
         <tag>Pakistan</tag>
         <tag>UAE</tag>
         <tag>Oman</tag>
         <tag>Yemen</tag>
         <tag>Djibouti</tag>
         <tag>Saudi Arabia</tag>
-        <tag>Sinai</tag>
-        <tag>Egypt</tag>
         <tag>Ethiopia</tag>
         <tag>Eritrea</tag>
         <tag>Sri Lanka</tag>
@@ -1831,6 +1831,12 @@
 </ul>
 <blockquote>
 <p>The water flow can be controlled and the discharge can be regulated by building low dam which connected to the hydroelectric generation pipeline at high-altitude areas.</p>
+</blockquote>
+<ul>
+<li>管线沿河道缓坡布设，不产生垂直陡降落差。</li>
+</ul>
+<blockquote>
+<p>The pipeline is laid along the gentle slope of the river without vertical steep drop difference.</p>
 </blockquote>
 <ul>
 <li>通过控制沿线阀门开合程度，调控流量水压，形成稳定水流，避免产生“水锤”冲击。</li>
