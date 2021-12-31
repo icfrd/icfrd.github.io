@@ -73,11 +73,11 @@
         <category>Activities</category>
       </categories>
       <tags>
-        <tag>PPGS</tag>
-        <tag>NPACH</tag>
-        <tag>China</tag>
         <tag>Symposium</tag>
         <tag>YiChang</tag>
+        <tag>China</tag>
+        <tag>PPGS</tag>
+        <tag>NPACH</tag>
         <tag>Scheduled</tag>
       </tags>
   </entry>
@@ -183,13 +183,13 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>YiChang</tag>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
-        <tag>YiChang</tag>
         <tag>EnShi</tag>
         <tag>HuBei</tag>
       </tags>
@@ -262,8 +262,8 @@
         <tag>EMACV</tag>
         <tag>Defining</tag>
         <tag>RCS</tag>
-        <tag>Egypt</tag>
         <tag>Sinai</tag>
+        <tag>Egypt</tag>
       </tags>
   </entry>
   <entry>
@@ -464,12 +464,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>FuJian</tag>
         <tag>TaiWan</tag>
         <tag>YunNan</tag>
@@ -630,6 +630,7 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Egypt</tag>
         <tag>Italy</tag>
         <tag>Albania</tag>
         <tag>Greece</tag>
@@ -637,7 +638,6 @@
         <tag>Syria</tag>
         <tag>Palestine</tag>
         <tag>Israel</tag>
-        <tag>Egypt</tag>
       </tags>
   </entry>
   <entry>
@@ -858,12 +858,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>Russia</tag>
         <tag>North Korea</tag>
         <tag>South Korea</tag>
@@ -929,12 +929,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>FuJian</tag>
         <tag>TaiWan</tag>
       </tags>
@@ -987,12 +987,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>North Korea</tag>
         <tag>South Korea</tag>
         <tag>Northeast Asia</tag>
@@ -1068,12 +1068,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>Vietnam</tag>
         <tag>Myanmar</tag>
         <tag>Laos</tag>
@@ -1139,12 +1139,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>Pakistan</tag>
         <tag>Afghanistan</tag>
       </tags>
@@ -1236,12 +1236,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
         <tag>YaDong</tag>
@@ -1287,12 +1287,12 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>India</tag>
         <tag>Nepal</tag>
         <tag>Bangladesh</tag>
@@ -1457,19 +1457,18 @@
         <category>Projects</category>
       </categories>
       <tags>
+        <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>China</tag>
         <tag>India</tag>
         <tag>Bangladesh</tag>
         <tag>Iran</tag>
         <tag>YunNan</tag>
         <tag>Myanmar</tag>
         <tag>Thailand</tag>
-        <tag>Egypt</tag>
         <tag>Pakistan</tag>
         <tag>UAE</tag>
         <tag>Oman</tag>
@@ -1477,6 +1476,7 @@
         <tag>Djibouti</tag>
         <tag>Saudi Arabia</tag>
         <tag>Sinai</tag>
+        <tag>Egypt</tag>
         <tag>Ethiopia</tag>
         <tag>Eritrea</tag>
         <tag>Sri Lanka</tag>
@@ -1746,10 +1746,10 @@
         <category>Projects</category>
       </categories>
       <tags>
-        <tag>Africa</tag>
-        <tag>Bering Strait</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
+        <tag>Africa</tag>
+        <tag>Bering Strait</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
@@ -1832,13 +1832,19 @@
 <blockquote>
 <p>The water flow can be controlled and the discharge can be regulated by building low dam which connected to the hydroelectric generation pipeline at high-altitude areas.</p>
 </blockquote>
+<ul>
+<li>通过控制沿线阀门开合程度，调控流量水压，形成稳定水流，避免产生“水锤”冲击。</li>
+</ul>
+<blockquote>
+<p>By controlling the opening and closing degree of valves along the line and regulating the water pressure, a stable water flow is formed in the pipeline to avoid the impact of Water Hammer.</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>Technology</category>
       </categories>
       <tags>
-        <tag>PPGS</tag>
         <tag>China</tag>
+        <tag>PPGS</tag>
         <tag>Patent</tag>
       </tags>
   </entry>
@@ -1873,8 +1879,8 @@
         <category>Technology</category>
       </categories>
       <tags>
-        <tag>NPACH</tag>
         <tag>China</tag>
+        <tag>NPACH</tag>
         <tag>Patent</tag>
       </tags>
   </entry>
@@ -2052,8 +2058,8 @@
         <category>Technology</category>
       </categories>
       <tags>
-        <tag>LLBI</tag>
         <tag>China</tag>
+        <tag>LLBI</tag>
         <tag>Patent</tag>
       </tags>
   </entry>
@@ -2095,8 +2101,8 @@
         <category>Technology</category>
       </categories>
       <tags>
-        <tag>EMACV</tag>
         <tag>China</tag>
+        <tag>EMACV</tag>
         <tag>Patent</tag>
       </tags>
   </entry>
@@ -2204,8 +2210,8 @@
         <category>Constructions</category>
       </categories>
       <tags>
-        <tag>China</tag>
         <tag>YiChang</tag>
+        <tag>China</tag>
         <tag>WanZhou</tag>
         <tag>Railway</tag>
       </tags>
