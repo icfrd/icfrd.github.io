@@ -68,16 +68,16 @@
 <blockquote>
 <p>Registration and inquiry, please kindly <a href="mailto:hahtc{at}icfrd.org">contact us</a>.</p>
 </blockquote>
-<p><em><strong>说明：</strong></em></p>
+<p><em><strong>说明： | PS,</strong></em></p>
 <ol>
 <li><em><a href="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/ConferenceRegistryForm_v006.pdf">请下载并填写报名表</a>，<a href="mailto:hahtc{at}icfrd.org">以电子邮件报名为准</a>。</em></li>
 </ol>
 <blockquote>
-<p><em>PS: <a href="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/ConferenceRegistryForm_v006.pdf">Please download and fill in the registration form</a> and <a href="mailto:hahtc{at}icfrd.org">register by email</a>.</em></p>
+<p><em><a href="https://cdn.jsdelivr.net/gh/icfrd/image@master/HAHTC/ConferenceRegistryForm_v006.pdf">Please download and fill in the registration form</a> and <a href="mailto:hahtc{at}icfrd.org">register by email</a>.</em></p>
 </blockquote>
 <ol start="2">
 <li>报名参会者原则上费用自理。<blockquote>
-<p>Participants who registered did so in principle at their own <em>expense.</em></p>
+<p>Participants who registered would do so at their own <em>expense in principle.</em></p>
 </blockquote>
 </li>
 </ol>
@@ -568,6 +568,7 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Ukraine</tag>
         <tag>Switzerland</tag>
         <tag>Germany</tag>
         <tag>Austria</tag>
@@ -578,7 +579,6 @@
         <tag>Bulgaria</tag>
         <tag>Romania</tag>
         <tag>Moldova</tag>
-        <tag>Ukraine</tag>
         <tag>Black Sea</tag>
       </tags>
   </entry>
@@ -773,9 +773,9 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Russia</tag>
         <tag>Belarus</tag>
+        <tag>Ukraine</tag>
       </tags>
   </entry>
   <entry>
@@ -821,8 +821,8 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Russia</tag>
+        <tag>Ukraine</tag>
         <tag>Georgia</tag>
         <tag>Azerbaijan</tag>
         <tag>Iran</tag>
@@ -1548,8 +1548,8 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Canada</tag>
         <tag>Mexico</tag>
+        <tag>Canada</tag>
         <tag>Vancouver</tag>
         <tag>Norfolk</tag>
         <tag>USA</tag>
