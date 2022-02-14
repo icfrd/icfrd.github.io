@@ -568,7 +568,6 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Switzerland</tag>
         <tag>Germany</tag>
         <tag>Austria</tag>
@@ -579,6 +578,7 @@
         <tag>Bulgaria</tag>
         <tag>Romania</tag>
         <tag>Moldova</tag>
+        <tag>Ukraine</tag>
         <tag>Black Sea</tag>
       </tags>
   </entry>
@@ -1548,8 +1548,8 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Mexico</tag>
         <tag>Canada</tag>
+        <tag>Mexico</tag>
         <tag>Vancouver</tag>
         <tag>Norfolk</tag>
         <tag>USA</tag>
