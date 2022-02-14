@@ -405,10 +405,10 @@
       <tags>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>Nepal</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>Nepal</tag>
         <tag>Melamchi</tag>
         <tag>Kathmandu</tag>
       </tags>
@@ -568,7 +568,6 @@
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Ukraine</tag>
         <tag>Switzerland</tag>
         <tag>Germany</tag>
         <tag>Austria</tag>
@@ -579,6 +578,7 @@
         <tag>Bulgaria</tag>
         <tag>Romania</tag>
         <tag>Moldova</tag>
+        <tag>Ukraine</tag>
         <tag>Black Sea</tag>
       </tags>
   </entry>
@@ -1202,11 +1202,11 @@
       <tags>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
-        <tag>Nepal</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>India</tag>
+        <tag>Nepal</tag>
         <tag>Melamchi</tag>
         <tag>Bhimnagar</tag>
       </tags>
@@ -1252,11 +1252,11 @@
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
-        <tag>Bangladesh</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>India</tag>
+        <tag>Bangladesh</tag>
         <tag>YaDong</tag>
         <tag>Bhutan</tag>
         <tag>Kurigram</tag>
@@ -1303,12 +1303,12 @@
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
-        <tag>Nepal</tag>
-        <tag>Bangladesh</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>India</tag>
+        <tag>Nepal</tag>
+        <tag>Bangladesh</tag>
       </tags>
   </entry>
   <entry>
@@ -1473,11 +1473,11 @@
         <tag>China</tag>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
-        <tag>India</tag>
-        <tag>Bangladesh</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
+        <tag>India</tag>
+        <tag>Bangladesh</tag>
         <tag>Iran</tag>
         <tag>YunNan</tag>
         <tag>Myanmar</tag>
@@ -1761,11 +1761,11 @@
       <tags>
         <tag>PPGS</tag>
         <tag>NPACH</tag>
+        <tag>Africa</tag>
+        <tag>Bering Strait</tag>
         <tag>LLBI</tag>
         <tag>EMACV</tag>
         <tag>Defining</tag>
-        <tag>Africa</tag>
-        <tag>Bering Strait</tag>
       </tags>
   </entry>
   <entry>
